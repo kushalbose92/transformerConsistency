@@ -1,1 +1,1 @@
-# Transformers Are Universally Consistent: A Sequence-to-Sequence Regression Estimation Perspective
+# Universality of Hyperbolic Transformers: A Consistent Framework for Sequence-to-Sequence Functional Regression
