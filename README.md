@@ -1,4 +1,4 @@
-# Universality of Hyperbolic Transformers: A Consistent Framework for Sequence-to-Sequence Functional Regression
+# Universal Consistency of Transformers as Functional Regressors
 
 This repository contains the implementation and experiments used to study **hyperbolic Transformer architectures** and their behavior relative to their standard Euclidean counterparts across a range of sequence, vision, and graph tasks.
 
